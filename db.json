@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Back flip",
+      "desc": "learn it",
+      "date": "2021-09-23T18:25:43.511Z",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "title": "Buy new table",
+      "desc": "Our table broke last month, please buy a new one dude",
+      "date": "2021-09-23T18:25:43.511Z",
+      "isDone": true
+    },
+    {
+      "title": "Buy new girl",
+      "desc": "buy a new girl one",
+      "date": "2021-07-07T07:09:07.527Z",
+      "id": 3,
+      "isDone": true
+    },
+    {
+      "title": "Good One",
+      "desc": "Nope",
+      "date": "2021-07-07T08:37:08.366Z",
+      "isDone": true,
+      "id": 4
+    }
+  ]
+}
